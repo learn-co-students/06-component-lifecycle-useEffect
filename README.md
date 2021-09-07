@@ -1,4 +1,4 @@
-# Side Effects & Data Fetching
+# Component Lifecycle & useEffect
 
 ## Goals
 
